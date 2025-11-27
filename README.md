@@ -50,16 +50,3 @@ It demonstrates strong knowledge in backend development, MVC architecture, datab
 - Session-based authentication  
 
 ---
-
-## 📸 Screenshots (Optional)
-
-![Uploading Screenshot1.png…]()
-
-
----
-
-## 🖥️ How to Run the Project
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
