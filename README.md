@@ -53,7 +53,8 @@ It demonstrates strong knowledge in backend development, MVC architecture, datab
 
 ## 📸 Screenshots (Optional)
 
-_Add UI screenshots like Home page, Cart page, Product page._
+![Uploading Screenshot1.png…]()
+
 
 ---
 
