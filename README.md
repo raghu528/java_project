@@ -37,8 +37,6 @@ It demonstrates strong knowledge in backend development, MVC architecture, datab
 -  Admin product CRUD  
 -  Spring MVC routing  
 -  MySQL database integration  
-[Raghu-Profilep2 (1).docx](https://github.com/user-attachments/files/23809388/Raghu-Profilep2.1.docx)
-[Raghu_IP2profile.pdf](https://github.com/user-attachments/files/23809387/Raghu_IP2profile.pdf)
 
 ---
 ##  Screenshots
