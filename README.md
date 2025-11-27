@@ -1,4 +1,4 @@
-[Dileep_Wipro_Resume.pdf](https://github.com/user-attachments/files/23809381/Dileep_Wipro_Resume.pdf)#  E-Commerce Application for Food Sale
+##  E-Commerce Application for Food Sale
 
 A full-stack web application designed for browsing food items, adding products to cart, placing orders, and managing product data. Built with **Java, Spring Framework, HTML, CSS, Bootstrap, and MySQL**.
 
